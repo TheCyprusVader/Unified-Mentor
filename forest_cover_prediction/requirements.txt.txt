@@ -1,0 +1,15 @@
+
+---
+
+## 📦 requirements.txt
+
+```txt
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lightgbm
+shap
+joblib
